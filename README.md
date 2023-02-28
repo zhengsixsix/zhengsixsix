@@ -35,6 +35,7 @@ I am a Junior Full Stack Developer from China.
   <img src="https://browsersl.ist/browserlist-e428d541.svg" title="Browserslist" alt="Browserslist" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
 </div>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhengsixsix&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=zhengsixsix&count_private=true&show_icons=true" height=145/></span>
 
 
   
